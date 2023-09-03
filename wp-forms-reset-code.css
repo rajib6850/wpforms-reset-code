@@ -2,3 +2,9 @@
 .wpforms-container .wpforms-field{
 	padding: 5px 0 !important;
 }
+
+
+.wpforms-container .wpforms-field.wpforms-field-checkbox ul{
+	gap: 5px !important;
+}
+
